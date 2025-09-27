@@ -1,0 +1,50 @@
+{
+  "defaultStream": "https://listen.clubtime.fm/tunein-mp3",
+  "streams": [
+    {
+      "name": "Club",
+      "url": "https://listen.clubtime.fm/tunein-mp3",
+      "description": "Techno / Deep-House / Acid / Minimal"
+    },
+    {
+      "name": "Hardcore",
+      "url": "https://listen.coretime.fm/tunein-mp3",
+      "description": "Hardcore / Frenchcore / Hardtechno"
+    },
+    {
+      "name": "Hardbase",
+      "url": "https://listen.hardbase.fm/tunein-mp3",
+      "description": "Euphoric / Raw / Early"
+    },
+    {
+      "name": "Trance Base",
+      "url": "https://listen.trancebase.fm/tunein-mp3",
+      "description": "Uplifting / Progressive Trance / Hard Trance"
+    },
+    {
+      "name": "Thunderdome Radio",
+      "url": "https://stream.laut.fm/thunderdome-radio",
+      "description": "Hardcore electronic music"
+    },
+    {
+      "name": "Frenchcore Radio",
+      "url": "https://stream.laut.fm/frenchcoreradio",
+      "description": "Frenchcore electronic music"
+    },
+    {
+      "name": "Radio Swiss Jazz (Backup)",
+      "url": "http://stream.srg-ssr.ch/rsp/aacp_48.aac",
+      "description": "Swiss Jazz - Known working stream"
+    },
+    {
+      "name": "SomaFM Groove Salad (Backup)",
+      "url": "https://ice1.somafm.com/groovesalad-256-mp3",
+      "description": "Ambient electronic music - Reliable stream"
+    },
+    {
+      "name": "Radio Paradise Main Mix (Backup)",
+      "url": "https://stream.radioparadise.com/aac-320",
+      "description": "Eclectic music mix - Stable stream"
+    }
+  ]
+}
