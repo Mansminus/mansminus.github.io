@@ -30,21 +30,6 @@
       "name": "Frenchcore Radio",
       "url": "https://stream.laut.fm/frenchcoreradio",
       "description": "Frenchcore electronic music"
-    },
-    {
-      "name": "Radio Swiss Jazz (Backup)",
-      "url": "http://stream.srg-ssr.ch/rsp/aacp_48.aac",
-      "description": "Swiss Jazz - Known working stream"
-    },
-    {
-      "name": "SomaFM Groove Salad (Backup)",
-      "url": "https://ice1.somafm.com/groovesalad-256-mp3",
-      "description": "Ambient electronic music - Reliable stream"
-    },
-    {
-      "name": "Radio Paradise Main Mix (Backup)",
-      "url": "https://stream.radioparadise.com/aac-320",
-      "description": "Eclectic music mix - Stable stream"
     }
   ]
 }
